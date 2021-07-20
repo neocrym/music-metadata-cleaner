@@ -1,0 +1,15 @@
+[package]
+name = "music-metadata-cleaner"
+version = "1.0.0"
+authors = ["Neocrym Records Inc. <engineering@neocrym.com>"]
+edition = "2018"
+readme = "README.md"
+homepage = "https://github.com/neocrym/music-metadata-cleaner"
+repository = "https://github.com/neocrym/music-metadata-cleaner"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "1.4"
+regex = "1"
